@@ -109,3 +109,7 @@ admin:
   username: santylopez
   password_hash: $2a$10$uhJYU.664so1zwv693HpNuSCs.lMjfInfV/cZv/.0b5OM3Sr6tQtC
   secret: my password
+
+metadata:
+  author_id: defaultAuthorId
+  language:
